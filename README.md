@@ -24,9 +24,6 @@ Uses OpenRouter with the Xiaomi MiMo V2 Flash model.
 
 ### 2. Set API Key
 - Extensions → Apps Script
-- Project Settings → Script Properties
-- Add property:
-
-Key:
-
-Value:
+- Project Settings → Script Properties from sidebar
+- Add script property:
+- Click Save Script properties
