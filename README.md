@@ -20,6 +20,7 @@ Uses OpenRouter with the Xiaomi MiMo V2 Flash model.
 - Open Google Sheets
 - Extensions → Apps Script
 - Paste `Code.gs` content
+- Run the script
 - Save project
 
 ### 2. Set API Key
