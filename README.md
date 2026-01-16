@@ -2,6 +2,8 @@
 Google Apps Script that adds AI-powered QA utilities to Google Sheets.
 Uses OpenRouter with the Xiaomi MiMo V2 Flash model.
 
+![image alt](https://github.com/TalhaMughal00/Google-Sheets-AI-Tools/blob/8f521167e711e05f8780b1800ec0c65d790b76a8/Tool.png)
+
 ## Features
 - Rewrite QA bug descriptions for clarity
 - Generate short titles for bug descriptions
