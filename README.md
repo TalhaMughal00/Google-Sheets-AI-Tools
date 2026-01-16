@@ -1,5 +1,4 @@
 # Google Sheets AI QA Tools
-
 Google Apps Script that adds AI-powered QA utilities to Google Sheets.
 Uses OpenRouter with the Xiaomi MiMo V2 Flash model.
 
@@ -15,7 +14,6 @@ Uses OpenRouter with the Xiaomi MiMo V2 Flash model.
 - Model: xiaomi/mimo-v2-flash:free
 
 ## Setup
-
 ### 1. Create Apps Script Project
 - Open Google Sheets
 - Extensions → Apps Script
