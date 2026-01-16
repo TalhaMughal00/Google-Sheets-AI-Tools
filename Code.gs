@@ -5,13 +5,6 @@
  * xiaomi/mimo-v2-flash:free
  * Xiaomi_API_KEY
  * 
- * TNG: DeepSeek R1T2 Chimera (free)
- * tngtech/deepseek-r1t2-chimera:free
- * Deepseek_API_KEY
- * 
- * Devstral 2 2512 (free)
- * mistralai/devstral-2512:free
- * Devstral_API_KEY
  */
 
 const CONFIG = {
